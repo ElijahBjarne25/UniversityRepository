@@ -9,7 +9,7 @@ using System;
 
 namespace UniLessons
 {
-    class Program
+    class Laboratory1
     {
         static void Main(string[] args)
         {
